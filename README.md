@@ -1,0 +1,2 @@
+# Employee-Payroll-Attendance-Management-System-Excel
+An Excel-based Employee Payroll &amp; Attendance Management System designed to automate employee attendance tracking, salary calculation, statutory deductions, and net salary computation. The project includes attendance management, working-day calculations, PF, ESI, Income Tax/TDS, deductions, and payroll reporting using Excel formulas and functions.
